@@ -87,5 +87,5 @@ You can learn about new algorithms and approaches from other Kagglers by reading
 ## Here are some Baseline notebooks for you to get started
 
 1. Titanic Baseline - [<img src="https://www.kaggle.com/static/images/site-logo.png" alt="Open in Kaggle" width="50" height="20">](https://www.kaggle.com/code/raghavgarg12/titanic-baseline/notebook)
-
+2. Digit Recognizer Baseline - [<img src="https://www.kaggle.com/static/images/site-logo.png" alt="Open in Kaggle" width="50" height="20">](https://www.kaggle.com/raghavgarg12/digit-recognizer-baseline)
 
