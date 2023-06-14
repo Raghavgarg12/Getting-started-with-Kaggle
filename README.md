@@ -66,18 +66,18 @@ Now, you will join the competition by accepting the rules.  To do this, navigate
 Once you have joined the competition, you’re ready to make your very first submission! 
 The way you submit to the competition will vary with the type of competition. The other types of competitions are **Code** competitions (which you can read about [here](https://www.kaggle.com/docs/competitions#notebooks-only-competitions)).
 
-# 5. Join a team (Optional)
+## 5. Join a team (Optional)
 Once you have accepted the competition rules, you’ll see a Team tab. Here you can join a team or create your own team.
 
 You’re strongly encouraged to chat with other Kagglers in the forums and peruse users’ code.
 
-# 6. Prepare for the end of the competition
+## 6. Prepare for the end of the competition
 
 Before the competition closes, you will select up to 2 submissions to count towards your final score on the Private Leaderboard.  All other submissions will be ignored when deciding your ranking.
 
 Begin by clicking on “My Submissions” in the competition banner, which will show you all of your submissions.  To select a submission, click on the checkboxes under the “Use For Final Score” column.
 
-# 7. Keep learning!
+## 7. Keep learning!
 
 Kaggle Competitions are a great way to learn new techniques in data science.  
 
