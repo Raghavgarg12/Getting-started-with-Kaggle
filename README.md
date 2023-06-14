@@ -83,3 +83,5 @@ Kaggle Competitions are a great way to learn new techniques in data science.
 
 You can learn about new algorithms and approaches from other Kagglers by reading the posts in the Discussion tab.  If you have any questions about the competition, feel free to post your own topic! Releasing public code is a great way to contribute new knowledge to the community, to get feedback on your work from other Kagglers, and also to work towards the path to [Notebooks Grandmaster](https://www.kaggle.com/progression).
 ## Happy Kaggling. Thank You !
+
+[Open in Kaggle]([https://www.kaggle.com/your-username/your-notebook](https://www.kaggle.com/raghavgarg12/beginner-s-guide-to-kaggle-getting-started-with-d))
