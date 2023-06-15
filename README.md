@@ -88,4 +88,5 @@ You can learn about new algorithms and approaches from other Kagglers by reading
 
 1. Titanic Baseline - [<img src="https://www.kaggle.com/static/images/site-logo.png" alt="Open in Kaggle" width="50" height="20">](https://www.kaggle.com/code/raghavgarg12/titanic-baseline/notebook)
 2. Digit Recognizer Baseline - [<img src="https://www.kaggle.com/static/images/site-logo.png" alt="Open in Kaggle" width="50" height="20">](https://www.kaggle.com/raghavgarg12/digit-recognizer-baseline)
+3. House Price Regression Baseline - [<img src="https://www.kaggle.com/static/images/site-logo.png" alt="Open in Kaggle" width="50" height="20">](https://github.com/Raghavgarg12/House-Price-Regression-Baseline)
 
